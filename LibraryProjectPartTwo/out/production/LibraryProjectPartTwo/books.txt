@@ -1,0 +1,7 @@
+1,SomeBook,Desc,Author,0
+2,Harry Potter,Fantasy,J.K.Rowling,5
+3,Another Book,Description,Author,34,New Book Title,A fascinating description,John Doe,10
+2,Harry Potter,Fantasy,J.K.Rowling,4
+2,Harry Potter,Fantasy,J.K.Rowling,4
+2,Harry Potter,Fantasy,J.K.Rowling,4
+2,Harry Potter,Fantasy,J.K.Rowling,4
